@@ -1,0 +1,1130 @@
+﻿Log file open, 01/21/20 16:11:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Zad4GabrielaHołowacz
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.558695
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.097s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 2700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=black-wyverngabz -epicuserid=57a5ccad2cd746558f32d4e0467ca502 -epiclocale=pl-PL
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.21-15.11.30:375][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.21-15.11.30:375][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.21-15.11.30:375][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Engine.ini]
+[2020.01.21-15.11.30:375][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.21-15.11.30:375][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Engine.ini]
+[2020.01.21-15.11.30:375][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Engine.ini]
+[2020.01.21-15.11.30:375][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.21-15.11.30:375][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Engine.ini]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.21-15.11.30:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Engine.ini]
+[2020.01.21-15.11.30:376][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Engine.ini]
+[2020.01.21-15.11.30:380][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.21-15.11.30:380][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.21-15.11.30:381][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.21-15.11.30:382][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.21-15.11.30:382][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.21-15.11.30:392][  0]LogHAL: Display: Platform has ~ 16 GB [17131622400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.01.21-15.11.30:392][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.21-15.11.30:392][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.21-15.11.30:392][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.21-15.11.30:393][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.21-15.11.30:394][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.21-15.11.30:394][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Config/Windows/Engine.ini]
+[2020.01.21-15.11.30:394][  0]LogInit: Computer: DESKTOP-R1R5FIA
+[2020.01.21-15.11.30:394][  0]LogInit: User: PC
+[2020.01.21-15.11.30:394][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.01.21-15.11.30:394][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.21-15.11.30:394][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.01.21-15.11.30:394][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.21-15.11.30:394][  0]LogMemory: Process Physical Memory: 104.82 MB used, 104.82 MB peak
+[2020.01.21-15.11.30:394][  0]LogMemory: Process Virtual Memory: 92.34 MB used, 92.34 MB peak
+[2020.01.21-15.11.30:394][  0]LogMemory: Physical Memory: 7231.87 MB used,  9106.12 MB free, 16337.99 MB total
+[2020.01.21-15.11.30:394][  0]LogMemory: Virtual Memory: 4670.13 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.01.21-15.11.31:070][  0]LogInit: Using OS detected language (pl-PL).
+[2020.01.21-15.11.31:070][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.01.21-15.11.31:071][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.01.21-15.11.31:073][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2020.01.21-15.11.31:073][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.21-15.11.31:119][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.21-15.11.31:119][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.21-15.11.31:314][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.21-15.11.31:314][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.21-15.11.31:563][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.01.21-15.11.31:563][  0]LogD3D11RHI:       6052/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.21-15.11.31:566][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.21-15.11.31:566][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.21-15.11.31:566][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.21-15.11.31:577][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.21-15.11.31:578][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.21-15.11.31:578][  0]LogWindows: EnumDisplayDevices:
+[2020.01.21-15.11.31:578][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.01.21-15.11.31:578][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.01.21-15.11.31:579][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.01.21-15.11.31:579][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.01.21-15.11.31:580][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.21-15.11.31:580][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.01.21-15.11.31:580][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.01.21-15.11.31:580][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.01.21-15.11.31:580][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.01.21-15.11.31:633][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.21-15.11.31:649][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.21-15.11.32:633][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.01.21-15.11.32:653][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.01.21-15.11.32:672][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.01.21-15.11.32:692][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.01.21-15.11.32:713][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.01.21-15.11.32:733][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.01.21-15.11.32:753][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.01.21-15.11.32:773][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.01.21-15.11.32:784][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.21-15.11.32:891][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.01.21-15.11.32:973][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.21-15.11.32:973][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.21-15.11.33:001][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.21-15.11.33:001][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.21-15.11.33:021][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.01.21-15.11.33:047][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.01.21-15.11.33:065][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.01.21-15.11.33:086][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.01.21-15.11.33:141][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.21-15.11.33:141][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.21-15.11.33:141][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.21-15.11.33:874][  0]LogShaderCompilers: Guid format shader working directory is -70 characters bigger than the processId version (../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Intermediate/Shaders/WorkingDirectory/26680/).
+[2020.01.21-15.11.33:874][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/76C810044BEB1493DE6F2CACD4475396/'.
+[2020.01.21-15.11.33:877][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.21-15.11.33:877][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.21-15.11.33:877][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.21-15.11.34:457][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.21-15.11.34:501][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.01.21-15.11.34:501][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.01.21-15.11.34:501][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.21-15.11.34:501][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.21-15.11.34:501][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.21-15.11.34:501][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.21-15.11.34:520][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.21-15.11.34:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.21-15.11.34:520][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.21-15.11.34:533][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.21-15.11.34:533][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.21-15.11.34:533][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.21-15.11.34:558][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.21-15.11.34:559][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.21-15.11.34:560][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.21-15.11.34:653][  0]LogAssetRegistry: FAssetRegistry took 0.0358 seconds to start up
+[2020.01.21-15.11.35:024][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.21-15.11.35:527][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.01.21-15.11.35:661][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.01.21-15.11.35:661][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.21-15.11.35:661][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.21-15.11.35:661][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.01.21-15.11.35:675][  0]LogNetVersion: Zad4GabrielaHołowacz 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2161573452)
+[2020.01.21-15.11.36:239][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.126287 seconds
+[2020.01.21-15.11.36:246][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.01.21-15.11.36:246][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.01.21-15.11.36:246][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.21-15.11.37:700][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.21-15.11.37:722][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.21-15.11.38:616][  0]SourceControl: Source control is disabled
+[2020.01.21-15.11.38:616][  0]SourceControl: Source control is disabled
+[2020.01.21-15.11.38:707][  0]SourceControl: Source control is disabled
+[2020.01.21-15.11.38:722][  0]SourceControl: Source control is disabled
+[2020.01.21-15.11.39:607][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.21-15.11.39:791][  0]LogOcInput: OculusInput pre-init called
+[2020.01.21-15.11.39:962][  0]LogEngine: Initializing Engine...
+[2020.01.21-15.11.39:963][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.21-15.11.39:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.21-15.11.39:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.21-15.11.39:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.21-15.11.39:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.21-15.11.40:173][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.21-15.11.40:201][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-15.11.40:289][  0]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-15.11.40:318][  0]LogInit: FAudioDevice initialized.
+[2020.01.21-15.11.40:319][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.21-15.11.40:374][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.01.21-15.11.40:375][  0]LogInit: Texture streaming: Enabled
+[2020.01.21-15.11.40:427][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.21-15.11.40:449][  0]LogInit: Transaction tracking system initialized
+[2020.01.21-15.11.40:533][  0]BlueprintLog: New page: Editor Load
+[2020.01.21-15.11.41:039][  0]LocalizationService: Localization service is disabled
+[2020.01.21-15.11.41:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/' took 0.02s
+[2020.01.21-15.11.41:687][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.21-15.11.41:687][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.21-15.11.41:687][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.01.21-15.11.41:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.21-15.11.41:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.21-15.11.41:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.21-15.11.41:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.21-15.11.42:186][  0]SourceControl: Source control is disabled
+[2020.01.21-15.11.42:189][  0]LightingResults: New page: Lighting Build
+[2020.01.21-15.11.42:192][  0]MapCheck: New page: Map Check
+[2020.01.21-15.11.42:192][  0]LightingResults: New page: Lighting Build
+[2020.01.21-15.11.42:534][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.01.21-15.11.42:542][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.21-15.11.42:580][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.21-15.11.42:581][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,204ms to complete.
+[2020.01.21-15.11.42:581][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.395
+[2020.01.21-15.11.42:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.11.42:686][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.11.42:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.11.42:701][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.11.42:736][  0]LogCollectionManager: Loaded 0 collections in 0.003159 seconds
+[2020.01.21-15.11.42:766][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Collections/' took 0.01s
+[2020.01.21-15.11.42:766][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Developers/PC/Collections/' took 0.01s
+[2020.01.21-15.11.42:766][  0]LogFileCache: Scanning file cache for directory 'C:/Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Collections/' took 0.00s
+[2020.01.21-15.11.42:766][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.21-15.11.42:775][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2651 classes and 620 folders.
+[2020.01.21-15.11.42:782][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.21-15.11.42:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.21-15.11.42:880][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.21-15.11.42:914][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.21-15.11.42:987][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.21-15.11.42:990][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.21-15.11.42:998][  0]LogSlate: Took 0.000698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.21-15.11.43:085][  0]LogRenderer: Reallocating scene render targets to support 1268x688 Format 10 NumSamples 1 (Frame:1).
+[2020.01.21-15.11.43:212][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.21-15.11.43:212][  0]LogLoad: (Engine Initialization) Total time: 15.70 seconds
+[2020.01.21-15.11.43:212][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.21-15.11.43:274][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.21-15.11.43:288][  0]LogSlate: Took 0.000638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.21-15.11.43:339][  1]LogAssetRegistry: Asset discovery search completed in 8.7075 seconds
+[2020.01.21-15.11.43:340][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.21-15.11.43:340][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2020.01.21-15.12.19:595][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-15.12.19:881][433]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.21-15.12.19:972][433]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-15.12.19:976][433]LogAssetEditorManager: Opening Asset editor for World /Game/Untitled.Untitled
+[2020.01.21-15.12.20:019][433]Cmd: MAP LOAD FILE="../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.21-15.12.20:019][433]LightingResults: New page: Lighting Build
+[2020.01.21-15.12.20:020][433]LoadErrors: New page: Loading map: Untitled.umap
+[2020.01.21-15.12.20:020][433]MapCheck: New page: Map Check
+[2020.01.21-15.12.20:020][433]LightingResults: New page: Lighting Build
+[2020.01.21-15.12.20:130][433]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.21-15.12.20:185][433]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.21-15.12.20:186][433]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,223ms to complete.
+[2020.01.21-15.12.20:186][433]LogFileHelpers: Loading map 'Untitled' took 0.169
+[2020.01.21-15.12.22:986][762]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-15.12.22:997][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.12.22:997][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-15.12.22:997][762]PIE: New page: PIE session: Untitled (21 sty 2020, 17:12:22)
+[2020.01.21-15.12.23:010][762]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-15.12.23:015][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004417s)
+[2020.01.21-15.12.23:015][762]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-15.12.23:015][762]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2020.01.21-15.12.23:015][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.005337s)
+[2020.01.21-15.12.23:112][762]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-15.12.23:127][762]LogInit: FAudioDevice initialized.
+[2020.01.21-15.12.23:168][762]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-15.12.23:170][762]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-16.12.23
+[2020.01.21-15.12.23:170][762]LogWorld: Bringing up level for play took: 0.000778
+[2020.01.21-15.12.23:190][762]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.21-15.12.23:191][762]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 1,177
+[2020.01.21-15.12.23:191][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.12.41:131][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.12.41:131][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.12.41:163][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-15.12.41:164][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.12.41:200][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.12.41:244][914]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.01.21-15.12.43:861][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-15.12.44:995][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-15.12.44:998][334]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Untitled.Untitled:PersistentLevel.Untitled
+[2020.01.21-15.12.45:490][334]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2020.01.21-15.12.46:175][334]LogSlate: Took 0.000851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.21-15.12.46:247][335]LogSlate: Took 0.000685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.21-15.13.37:099][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-15.13.37:165][155]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-15.13.37:175][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.13.37:175][155]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.21-15.13.37:179][155]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2020.01.21-15.13.37:371][155]LogPlayLevel: PlayLevel: Blueprint regeneration took 195 ms (1 blueprints)
+[2020.01.21-15.13.37:371][155]PIE: New page: PIE session: Untitled (21 sty 2020, 17:13:37)
+[2020.01.21-15.13.37:371][155]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-15.13.37:374][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003315s)
+[2020.01.21-15.13.37:375][155]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-15.13.37:375][155]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2020.01.21-15.13.37:375][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004072s)
+[2020.01.21-15.13.37:461][155]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-15.13.37:473][155]LogInit: FAudioDevice initialized.
+[2020.01.21-15.13.37:510][155]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-15.13.37:511][155]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-16.13.37
+[2020.01.21-15.13.37:512][155]LogWorld: Bringing up level for play took: 0.000641
+[2020.01.21-15.13.37:526][155]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0,488
+[2020.01.21-15.13.37:526][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.13.47:156][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.13.47:157][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.13.47:194][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-15.13.47:195][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.13.47:233][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.13.47:277][300]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.01.21-15.13.48:578][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-15.13.58:016][512]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled8DB59B21420C2D4E26092F81B8FA7FE1.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-15.13.58:036][512]LogFileHelpers: Saving map 'Untitled' took 0.257
+[2020.01.21-15.17.48:694][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-15.18.42:522][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-15.18.42:589][206]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-15.18.42:600][206]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.18.42:600][206]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.21-15.18.42:602][206]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2020.01.21-15.18.42:775][206]LogPlayLevel: PlayLevel: Blueprint regeneration took 175 ms (1 blueprints)
+[2020.01.21-15.18.42:775][206]PIE: New page: PIE session: Untitled (21 sty 2020, 17:18:42)
+[2020.01.21-15.18.42:775][206]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-15.18.42:779][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003236s)
+[2020.01.21-15.18.42:779][206]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-15.18.42:779][206]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2020.01.21-15.18.42:779][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004062s)
+[2020.01.21-15.18.42:866][206]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-15.18.42:879][206]LogInit: FAudioDevice initialized.
+[2020.01.21-15.18.42:913][206]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-15.18.42:914][206]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-16.18.42
+[2020.01.21-15.18.42:914][206]LogWorld: Bringing up level for play took: 0.000742
+[2020.01.21-15.18.42:927][206]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0,913
+[2020.01.21-15.18.42:927][206]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.18.57:266][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.18.57:266][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.18.57:300][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-15.18.57:300][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-15.18.57:339][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-15.18.57:384][927]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.21-15.18.58:333][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-15.18.58:585][ 40]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled4B8790AB4AF3394F50588682161AD0DE.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-15.18.58:647][ 40]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_BuiltData592110DF403DAAA582DDD0A3ADC4FE40.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled_BuiltData.uasset'
+[2020.01.21-15.18.59:317][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-15.19.06:155][864]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled5543C32044EBA8A8D9E91DBACDC74240.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-15.19.06:173][864]LogFileHelpers: Saving map 'Untitled' took 0.253
+[2020.01.21-15.19.09:372][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-15.22.53:582][134]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/UntitledDBDE02774A19C426F4DD3694FE019EAD.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-15.22.53:600][134]LogFileHelpers: Saving map 'Untitled' took 0.261
+[2020.01.21-15.22.54:171][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-15.23.46:231][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-15.23.49:757][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-15.32.53:685][358]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.035
+[2020.01.21-15.37.20:466][319]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2020.01.21-15.43.26:684][774]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_Auto11041E3ED417DD29228F2FEA72D41225D.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Autosaves/Game/Untitled_Auto1.umap'
+[2020.01.21-15.43.26:688][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.476
+[2020.01.21-15.43.26:688][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.476
+[2020.01.21-15.43.56:908][487]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ULayersBlueprintLibrary::GetActors' [Nie można odnaleźć elementu.]
+[2020.01.21-15.53.27:110][113]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_Auto2D1CA96C14F45B76457FD6980D88A1FC8.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Autosaves/Game/Untitled_Auto2.umap'
+[2020.01.21-15.53.27:113][113]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.265
+[2020.01.21-15.53.27:113][113]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.265
+[2020.01.21-15.58.27:165][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.01.30:985][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.01.31:034][162]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-16.01.31:045][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.01.31:045][162]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.21-16.01.31:048][162]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2020.01.21-16.01.31:222][162]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2020.01.21-16.01.31:222][162]PIE: New page: PIE session: Untitled (21 sty 2020, 18:01:31)
+[2020.01.21-16.01.31:222][162]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-16.01.31:225][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003150s)
+[2020.01.21-16.01.31:226][162]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-16.01.31:226][162]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2020.01.21-16.01.31:226][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003956s)
+[2020.01.21-16.01.31:312][162]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-16.01.31:325][162]LogInit: FAudioDevice initialized.
+[2020.01.21-16.01.31:355][162]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-16.01.31:356][162]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-17.01.31
+[2020.01.21-16.01.31:356][162]LogWorld: Bringing up level for play took: 0.000653
+[2020.01.21-16.01.31:369][162]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0,645
+[2020.01.21-16.01.31:369][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.01.46:091][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.01.46:091][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.01.46:129][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-16.01.46:130][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.01.46:173][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.01.46:194][928]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.21-16.01.47:834][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.01.48:091][122]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/UntitledCF96B4C84B5817ECB36B00821B0637E9.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.01.48:149][122]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_BuiltData8E6BDC404C09BFDCE5342986858F2A10.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled_BuiltData.uasset'
+[2020.01.21-16.02.40:824][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.03.57:645][579]LogSlate: Window 'Save Level As' being destroyed
+[2020.01.21-16.07.16:064][189]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-16.07.16:074][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.16:074][189]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.21-16.07.16:078][189]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2020.01.21-16.07.16:259][189]LogPlayLevel: PlayLevel: Blueprint regeneration took 184 ms (1 blueprints)
+[2020.01.21-16.07.16:259][189]PIE: New page: PIE session: Untitled (21 sty 2020, 18:07:16)
+[2020.01.21-16.07.16:259][189]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-16.07.16:262][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003354s)
+[2020.01.21-16.07.16:263][189]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-16.07.16:263][189]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2020.01.21-16.07.16:263][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004107s)
+[2020.01.21-16.07.16:351][189]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-16.07.16:368][189]LogInit: FAudioDevice initialized.
+[2020.01.21-16.07.16:403][189]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-16.07.16:403][189]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-17.07.16
+[2020.01.21-16.07.16:404][189]LogWorld: Bringing up level for play took: 0.000616
+[2020.01.21-16.07.16:416][189]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0,402
+[2020.01.21-16.07.16:416][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.25:444][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.25:444][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.07.25:481][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-16.07.25:481][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.25:523][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.07.25:547][262]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.01.21-16.07.26:445][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.07.26:503][375]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-16.07.26:514][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.26:514][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-16.07.26:514][375]PIE: New page: PIE session: Untitled (21 sty 2020, 18:07:26)
+[2020.01.21-16.07.26:514][375]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-16.07.26:517][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003321s)
+[2020.01.21-16.07.26:518][375]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-16.07.26:518][375]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2020.01.21-16.07.26:518][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004001s)
+[2020.01.21-16.07.26:606][375]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-16.07.26:617][375]LogInit: FAudioDevice initialized.
+[2020.01.21-16.07.26:647][375]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-16.07.26:647][375]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-17.07.26
+[2020.01.21-16.07.26:648][375]LogWorld: Bringing up level for play took: 0.000616
+[2020.01.21-16.07.26:661][375]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0,646
+[2020.01.21-16.07.26:661][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.34:713][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.34:714][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.07.34:750][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-16.07.34:750][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.34:789][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.07.34:834][341]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.21-16.07.35:543][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.07.35:601][433]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-16.07.35:612][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.35:612][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-16.07.35:612][433]PIE: New page: PIE session: Untitled (21 sty 2020, 18:07:35)
+[2020.01.21-16.07.35:612][433]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-16.07.35:615][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003270s)
+[2020.01.21-16.07.35:616][433]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-16.07.35:616][433]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2020.01.21-16.07.35:616][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003973s)
+[2020.01.21-16.07.35:707][433]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-16.07.35:719][433]LogInit: FAudioDevice initialized.
+[2020.01.21-16.07.35:754][433]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-16.07.35:754][433]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-17.07.35
+[2020.01.21-16.07.35:755][433]LogWorld: Bringing up level for play took: 0.000626
+[2020.01.21-16.07.35:768][433]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0,247
+[2020.01.21-16.07.35:768][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.43:688][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.43:688][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.07.43:721][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-16.07.43:721][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.07.43:762][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.07.43:806][383]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.21-16.07.45:972][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.07.46:239][642]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled6F26C7774FCA1676776CB9B0687C2DED.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.07.46:297][642]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_BuiltData856B20734FD9FE21201E1788644BB2E3.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled_BuiltData.uasset'
+[2020.01.21-16.09.35:634][556]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-16.09.35:645][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.09.35:645][556]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.21-16.09.35:648][556]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2020.01.21-16.09.35:653][556]LogBlueprint: Error: [Compiler PersistentLevel.Untitled] The current value of the ' Actor Layer ' pin is invalid: 'Actor Layer' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.01.21-16.09.35:654][556]LogBlueprint: Warning: [Compiler PersistentLevel.Untitled] [3488,14] Compile of PersistentLevel.Untitled failed. 1 Fatal Issue(s) 0 Warning(s) [in 5 ms] (/Game/Untitled.Untitled:PersistentLevel.Untitled)
+[2020.01.21-16.09.35:829][556]LogPlayLevel: PlayLevel: Blueprint regeneration took 183 ms (1 blueprints)
+[2020.01.21-16.09.35:829][556]BlueprintLog: Blueprint Untitled failed to compile
+[2020.01.21-16.09.38:150][556]LogSlate: Window 'Message' being destroyed
+[2020.01.21-16.09.58:350][835]BlueprintLog: New page: Compile Untitled
+[2020.01.21-16.09.59:971][992]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-16.09.59:981][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.09.59:981][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-16.09.59:981][992]PIE: New page: PIE session: Untitled (21 sty 2020, 18:09:59)
+[2020.01.21-16.09.59:982][992]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-16.09.59:985][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003347s)
+[2020.01.21-16.09.59:985][992]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-16.09.59:986][992]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2020.01.21-16.09.59:986][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004064s)
+[2020.01.21-16.10.00:072][992]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-16.10.00:084][992]LogInit: FAudioDevice initialized.
+[2020.01.21-16.10.00:125][992]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-16.10.00:126][992]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-17.10.00
+[2020.01.21-16.10.00:126][992]LogWorld: Bringing up level for play took: 0.000694
+[2020.01.21-16.10.00:139][992]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0,125
+[2020.01.21-16.10.00:139][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.10.10:273][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.10.10:273][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.10.10:311][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-16.10.10:312][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.10.10:352][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.10.10:375][184]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.01.21-16.10.11:205][283]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.21-16.10.11:215][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.10.11:215][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-16.10.11:215][283]PIE: New page: PIE session: Untitled (21 sty 2020, 18:10:11)
+[2020.01.21-16.10.11:215][283]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.01.21-16.10.11:218][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003082s)
+[2020.01.21-16.10.11:219][283]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-16.10.11:219][283]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2020.01.21-16.10.11:219][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003747s)
+[2020.01.21-16.10.11:312][283]LogInit: XAudio2 using 'Słuchawki (15 — DŸwiêk Bluetooth)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.21-16.10.11:324][283]LogInit: FAudioDevice initialized.
+[2020.01.21-16.10.11:360][283]LogLoad: Game class is 'GameModeBase'
+[2020.01.21-16.10.11:361][283]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.01.21-17.10.11
+[2020.01.21-16.10.11:361][283]LogWorld: Bringing up level for play took: 0.000708
+[2020.01.21-16.10.11:374][283]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0,64
+[2020.01.21-16.10.11:374][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.10.19:813][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.10.19:813][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.10.19:845][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-16.10.19:846][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.01.21-16.10.19:885][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-16.10.19:931][295]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.01.21-16.10.55:007][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.11.41:647][ 55]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled0EC1676546D0DAE3A7FD5FA803BA4870.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.11.41:666][ 55]LogFileHelpers: Saving map 'Untitled' took 0.270
+[2020.01.21-16.14.41:285][576]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/UntitledC5AE6CE04D8E3EF39D525F8F5678CFD5.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.14.41:344][576]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_BuiltData8DFB31CC4B752D9D3B337A89839E429D.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled_BuiltData.uasset'
+[2020.01.21-16.14.46:778][158]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/UntitledBC4D2DDA43A681D2D4980CBF4859943A.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.14.46:797][158]LogFileHelpers: Saving map 'Untitled' took 0.278
+[2020.01.21-16.18.38:496][151]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/UntitledEBC3D50E42B604F8B9435281C22184E5.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.18.38:515][151]LogFileHelpers: Saving map 'Untitled' took 0.282
+[2020.01.21-16.20.03:572][887]LogSlate: Window 'Untitled - Level Blueprint Editor' being destroyed
+[2020.01.21-16.20.03:577][887]LogSlate: Window 'Untitled - Level Blueprint Editor' being destroyed
+[2020.01.21-16.20.04:299][969]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.20.07:888][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-16.20.12:408][914]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ball)
+[2020.01.21-16.20.19:922][795]Cmd: TRANSACTION UNDO
+[2020.01.21-16.20.19:922][795]LogEditorTransaction: Undo Move Actors
+[2020.01.21-16.20.24:568][328]Cmd: TRANSACTION UNDO
+[2020.01.21-16.20.24:568][328]LogEditorTransaction: Undo Move Actors
+[2020.01.21-16.20.29:717][929]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.21-16.20.30:054][967]Cmd: TRANSACTION UNDO
+[2020.01.21-16.20.30:054][967]LogEditorTransaction: Undo Move Actors
+[2020.01.21-16.20.30:613][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-16.20.58:440][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.21.29:473][ 84]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.21-16.21.42:089][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.22.07:490][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.22.58:884][236]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.23.01:578][547]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.23.12:806][908]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.23.25:930][455]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.23.41:270][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.24.42:511][ 35]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.24.42:532][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.24.46:272][483]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.24.46:293][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.24.50:139][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.24.51:550][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.25.14:545][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.25.21:419][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.25.58:133][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-16.26.00:623][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.21-16.26.05:367][150]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.26.19:892][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.26.20:754][678]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.21-16.26.32:345][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.27.12:368][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.27.17:567][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.27.29:734][359]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.27.37:551][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.27.37:871][285]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled639687B8485318FB634694A062B0C145.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.27.37:930][285]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_BuiltData399B1A584813D8CDBAA38596B07CC342.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled_BuiltData.uasset'
+[2020.01.21-16.30.41:896][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.30.56:304][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.30.59:168][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.31.05:034][409]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.31.26:620][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.31.42:486][135]Cmd: TRANSACTION UNDO
+[2020.01.21-16.31.42:486][135]LogEditorTransaction: Undo Move Actors
+[2020.01.21-16.31.52:537][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.31.56:347][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.32.05:197][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.32.41:012][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.32.50:244][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.32.58:481][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.33.03:500][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.33.21:575][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.33.24:734][129]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.33.25:699][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.33.34:525][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.33.36:786][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.33.57:135][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.34.09:173][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.34.14:507][698]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.34.41:606][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.35.12:927][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.35.13:654][746]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.35.22:745][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.35.25:926][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.35.37:638][607]Cmd: TRANSACTION UNDO
+[2020.01.21-16.35.37:638][607]LogEditorTransaction: Undo Reset Scale
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_196, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_196' invalid (64 verts, 0 indices).
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_196.BodySetup_0 when we are unable to.
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_197, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_197, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_197, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_197' invalid (64 verts, 0 indices).
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_197.BodySetup_0 when we are unable to.
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_198, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_198' invalid (64 verts, 0 indices).
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_198.BodySetup_0 when we are unable to.
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_199, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_199' invalid (64 verts, 0 indices).
+[2020.01.21-16.35.37:641][607]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_199.BodySetup_0 when we are unable to.
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_200, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_200' invalid (64 verts, 0 indices).
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_200.BodySetup_0 when we are unable to.
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_201, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_201' invalid (64 verts, 0 indices).
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_201.BodySetup_0 when we are unable to.
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_202, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_202, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_202' invalid (64 verts, 0 indices).
+[2020.01.21-16.35.37:642][607]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_202.BodySetup_0 when we are unable to.
+[2020.01.21-16.35.49:474][999]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.35.56:385][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.36.18:571][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.36.28:842][636]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2020.01.21-16.36.33:129][140]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.36.38:486][776]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2020.01.21-16.36.57:970][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.37.04:999][327]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.21-16.37.28:804][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.37.30:090][268]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.37.40:104][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.37.51:011][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.37.51:778][837]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.37.56:045][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.37.56:880][434]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.38.18:975][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.38.19:815][948]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled0481659C45EDF0AC37376E9FA1C50284.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.38.19:877][948]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_BuiltDataAE61A9BD4F40BBC52A93268AC815B7FA.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled_BuiltData.uasset'
+[2020.01.21-16.39.22:496][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.41.11:723][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.41.24:316][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.41.35:192][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.41.43:274][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.41.50:733][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.41.56:290][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.41.58:229][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.41.59:107][313]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.42.01:951][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.42.02:818][744]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.42.04:734][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.42.08:347][395]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2020.01.21-16.42.09:089][479]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.42.29:156][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.42.30:779][131]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.42.32:416][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.42.56:055][ 37]Cmd: TRANSACTION UNDO
+[2020.01.21-16.42.56:055][ 37]LogEditorTransaction: Undo Edit X
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_275, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_275' invalid (108 verts, 0 indices).
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_275.BodySetup_0 when we are unable to.
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_276, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_276' invalid (108 verts, 0 indices).
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_276.BodySetup_0 when we are unable to.
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_277, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_277, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_277, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_277, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_277' invalid (108 verts, 0 indices).
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_277.BodySetup_0 when we are unable to.
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_278, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_278, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_278, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_278' invalid (108 verts, 0 indices).
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_278.BodySetup_0 when we are unable to.
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_279, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_279, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_279' invalid (108 verts, 0 indices).
+[2020.01.21-16.42.56:059][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_279.BodySetup_0 when we are unable to.
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_280, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_280, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_280, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_280, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_280' invalid (108 verts, 0 indices).
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_280.BodySetup_0 when we are unable to.
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_281, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_281, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_281, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_281' invalid (108 verts, 0 indices).
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_281.BodySetup_0 when we are unable to.
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_282, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Untitled.Untitled:PersistentLevel.ModelComponent_282, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Untitled.Untitled:PersistentLevel.ModelComponent_282' invalid (108 verts, 0 indices).
+[2020.01.21-16.42.56:060][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/Untitled.Untitled:PersistentLevel.ModelComponent_282.BodySetup_0 when we are unable to.
+[2020.01.21-16.43.23:032][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.43.35:078][637]Cmd: TRANSACTION UNDO
+[2020.01.21-16.43.35:078][637]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.21-16.43.35:445][667]Cmd: TRANSACTION UNDO
+[2020.01.21-16.43.35:445][667]LogEditorTransaction: Undo Edit Y
+[2020.01.21-16.43.35:880][713]Cmd: TRANSACTION UNDO
+[2020.01.21-16.43.35:881][713]LogEditorTransaction: Undo Edit X
+[2020.01.21-16.43.42:489][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.43.43:275][583]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.21-16.44.02:604][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.44.13:789][201]Cmd: DELETE
+[2020.01.21-16.44.13:790][201]Cmd: ACTOR DELETE
+[2020.01.21-16.44.13:796][201]LogEditorActor: Deleted Actor: Brush
+[2020.01.21-16.44.13:834][201]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.01.21-16.44.15:273][367]Cmd: EDIT COPY
+[2020.01.21-16.44.15:646][411]Cmd: EDIT PASTE
+[2020.01.21-16.44.18:323][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.44.22:230][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.44.30:494][166]Cmd: TRANSACTION UNDO
+[2020.01.21-16.44.30:494][166]LogEditorTransaction: Undo Move Actors
+[2020.01.21-16.44.30:739][185]Cmd: TRANSACTION UNDO
+[2020.01.21-16.44.30:739][185]LogEditorTransaction: Undo Move Actors
+[2020.01.21-16.44.31:109][216]Cmd: TRANSACTION UNDO
+[2020.01.21-16.44.31:109][216]LogEditorTransaction: Undo Rotate Actors
+[2020.01.21-16.44.31:558][265]Cmd: TRANSACTION UNDO
+[2020.01.21-16.44.31:558][265]LogEditorTransaction: Undo Paste
+[2020.01.21-16.44.32:044][317]Cmd: TRANSACTION UNDO
+[2020.01.21-16.44.32:044][317]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.21-16.44.32:466][366]Cmd: TRANSACTION UNDO
+[2020.01.21-16.44.32:466][366]LogEditorTransaction: Undo Delete Actors
+[2020.01.21-16.44.37:375][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.44.47:533][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.44.51:448][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.45.30:895][400]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.45.41:616][620]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.45.49:891][584]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.46.49:548][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.46.52:612][331]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.47.04:469][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.47.09:763][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.47.29:695][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.47.35:841][437]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.47.43:718][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.47.47:698][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.47.57:431][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.48.03:333][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.48.12:101][714]Cmd: EDIT COPY
+[2020.01.21-16.48.13:797][916]Cmd: EDIT PASTE
+[2020.01.21-16.48.29:152][725]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.48.40:116][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.48.43:961][458]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.48.49:999][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.48.54:405][688]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.49.08:374][335]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.49.26:230][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.49.51:517][419]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.50.25:051][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.50.33:032][818]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.50.55:718][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.51.00:661][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.51.24:165][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.51.28:019][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.51.37:898][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.51.53:640][321]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.52.18:592][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.52.24:186][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.52.28:556][436]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.52.35:406][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.21-16.52.56:198][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.53.38:785][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.53.43:135][550]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.21-16.53.45:144][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.53.46:598][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.53.51:843][575]Cmd: TRANSACTION UNDO
+[2020.01.21-16.53.51:843][575]LogEditorTransaction: Undo Brush Add
+[2020.01.21-16.54.01:833][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.54.03:218][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.54.06:950][603]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.54.33:181][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.54.33:718][125]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_Auto3E1BAE2E9480EDF2378AF549F9B024288.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Autosaves/Game/Untitled_Auto3.umap'
+[2020.01.21-16.54.33:722][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.519
+[2020.01.21-16.54.33:722][125]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.519
+[2020.01.21-16.54.33:947][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.54.38:585][667]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.21-16.54.40:291][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.54.48:767][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.54.55:921][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.55.04:955][776]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2020.01.21-16.55.07:157][ 35]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2020.01.21-16.55.08:596][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.55.43:457][378]Cmd: TRANSACTION UNDO
+[2020.01.21-16.55.43:457][378]LogEditorTransaction: Undo Set Location
+[2020.01.21-16.55.51:548][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.55.59:537][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.56.17:597][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.56.19:890][661]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.56.36:160][256]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.56.42:383][429]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.56.43:047][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.21-16.56.58:695][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.57.01:626][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.57.04:752][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.21-16.57.06:563][163]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.21-16.57.19:404][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.21-16.57.20:030][318]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled8067464D422595CB548AB493602EBFF6.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-16.57.20:099][318]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_BuiltData1AADC3F8478A0106F2EE1C86E449138A.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled_BuiltData.uasset'
+[2020.01.21-16.57.33:690][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-16.58.06:792][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-17.00.39:742][724]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/UntitledDB2D0B7A4ADD5A5D0918A98944B36FF3.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled.umap'
+[2020.01.21-17.00.39:806][724]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Saved/Untitled_BuiltData8E9C696C4AF201E660E17FB455FD2F84.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/UNREAL/Zad4GabrielaHołowacz/Content/Untitled_BuiltData.uasset'
